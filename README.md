@@ -2,14 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unscheduledd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unscheduledd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1327895558941315079/1340592536137236480/Final_Logo_With_Thinner_Purple_Border.png?ex=67b2eb97&is=67b19a17&hm=a912430990bac6246b1aa390703c684246607aa04c50466a88cbda6afd384757&=&format=webp&quality=lossless&width=701&height=701"  />
+<img align="left" height="150" src="https://media.discordapp.net/attachments/1327895558941315079/1340592536137236480/Final_Logo_With_Thinner_Purple_Border.png?ex=67b2eb97&is=67b19a17&hm=a912430990bac6246b1aa390703c684246607aa04c50466a88cbda6afd384757&=&format=webp&quality=lossless&width=701&height=701"  />
 
 ###
 
@@ -22,9 +15,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -60,6 +53,16 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=unscheduledd.unscheduledd&left_color=darkviolet&right_color=deeppink&left_text=Views"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unscheduledd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unscheduledd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unscheduledd&radius=16&theme=github-dark&area=true&order=5&bg_color=000000&color=ac68c8%20&title_color=ac68c8%20&line=ac68c8%20&point=ac68c8%20&area_color=ac68c8%20" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
